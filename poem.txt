@@ -1,2 +1,3 @@
 The Rainbow;
 It is in VIBGYOR format ;
+Violet is first;
