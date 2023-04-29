@@ -4,3 +4,6 @@ Violet is first;
 Indingo;
 Blue:
 Green;
+Yellow ; 
+Orange ;
+nd the last one is Red;
